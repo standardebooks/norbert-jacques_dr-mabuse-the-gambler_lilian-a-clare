@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/norbert-jacques/dr-mabuse-the-gambler/lilian-a-clare</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-06-30T16:32:25Z</dc:date>
+		<meta property="dcterms:modified">2025-06-30T16:32:25Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,15 +45,20 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A detective hunts a criminal mastermind and hypnotist in the gambling dens of post-Great-War Munich.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Edgar Hull is a gambling at a Munich club when he suddenly and mysteriously starts losing, seemingly on purpose. He walks away from the table in a confused dazed and deep in debt—he can’t understand why he played that way.&lt;/p&gt;
+			&lt;p&gt;Little does Edgar know that his opponent in the game was the mysterious hypnotist, master of disguise, and archvillain who calls himself Dr. Mabuse, and that Edgar was merely his latest victim. When Inspector von Wenk, a state attorney, arrives to question Hull, the plot quickly turns to murder—and worse—as Mabuse continues his reign of mesmeric terror on Munich’s gambling class. But Dr. Mabuse isn’t just in it for the money—his aim is something far greater.&lt;/p&gt;
+			&lt;p&gt;Dr. Mabuse, along with &lt;a href="https://standardebooks.org/collections/fu-manchu"&gt;Fu Manchu&lt;/a&gt; and &lt;a href="https://standardebooks.org/collections/fantomas"&gt;Fantômas&lt;/a&gt;, is one of the earliest examples of the “supervillain” archetype popular in modern media like the Bond series or comic books. He’s a seemingly-invincible chameleon with an eerie, inexplicable power over people; he seems to be controlling a shadowy organization with a greater, more sinister, goal; and he’s always one step ahead of the law.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/norbert-jacques"&gt;Jacques&lt;/a&gt; wrote &lt;i&gt;Dr. Mabuse, the Gambler&lt;/i&gt; with the aim of criticizing the extravagance of German post-war society. This makes the novel a kind of time capsule of the era, playing on the gamut of contemporary interests and fears including hypnotism, psychoanalysis, decadence, and the question of whether a society that permitted World War I is a society that could be redeemed.&lt;/p&gt;
+			&lt;p&gt;The novel was successful in its day, but was made even more famous by the Fritz Lang silent movie of the same name, which was so popular with both audiences and critics that it almost completely overshadowed the novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75967</dc:source>
 		<dc:source>https://archive.org/details/mabuse-norbert-jacques-1921-eng</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">The title has been changed to _Dr. Mabuse, the Gambler_ from the translator's title of _Dr. Mabuse, Master of Mystery_, because the former is both the original German title (_Dr. Mabuse, der Spieler_), and also the title of the better-known Lang silent film.</meta>
+		<meta property="se:word-count">81575</meta>
+		<meta property="se:reading-ease.flesch">72.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dr._Mabuse,_the_Gambler</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare</meta>
 		<dc:creator id="author">Norbert Jacques</dc:creator>
