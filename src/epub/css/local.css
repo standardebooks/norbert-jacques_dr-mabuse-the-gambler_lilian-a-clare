@@ -10,14 +10,6 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-1 blockquote{
-	font-variant: small-caps;
-}
-
-#chapter-1 blockquote b{
-	text-transform: uppercase;
-}
-
 #chapter-1 blockquote,
 #chapter-3 blockquote,
 #chapter-5 blockquote,
@@ -28,13 +20,32 @@ footer{
 	width: 30em;
 }
 
-blockquote span{
+#chapter-1 blockquote span{
 	display: block;
 	text-align: center;
 }
 
-blockquote br{
-	display: none;
+#chapter-1 blockquote{
+	font-variant: small-caps;
+}
+
+#chapter-1 blockquote b{
+	text-transform: uppercase;
+}
+
+#chapter-3 blockquote span{
+	text-align: center;
+	display: block;
+}
+
+#chapter-5 blockquote,
+#chapter-16 blockquote{
+	font-style: italic;
+}
+
+#chapter-5 blockquote b,
+#chapter-16 blockquote b{
+	font-style: normal;
 }
 
 [epub|type~="z3998:salutation"] + p{
