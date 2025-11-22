@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Dr. Mabuse, the Gambler</dc:title>
 		<meta property="file-as" refines="#title">Dr. Mabuse, the Gambler</meta>
-		<meta property="dcterms:alternate" refines="#title">Dr. Mabuse, Master of Mystery</meta>
+		<meta property="dcterms:alternative" refines="#title">Dr. Mabuse, Master of Mystery</meta>
 		<dc:subject id="subject-1">Germany -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Gamblers -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Murderers -- Fiction</dc:subject>
