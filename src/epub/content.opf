@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/75967</dc:source>
 		<dc:source>https://archive.org/details/mabuse-norbert-jacques-1921-eng</dc:source>
 		<meta property="se:production-notes">The title has been changed to _Dr. Mabuse, the Gambler_ from the translator's title of _Dr. Mabuse, Master of Mystery_, because the former is both the original German title (_Dr. Mabuse, der Spieler_), and also the title of the better-known Lang silent film.</meta>
-		<meta property="se:word-count">81575</meta>
+		<meta property="se:word-count">80997</meta>
 		<meta property="se:reading-ease.flesch">72.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dr._Mabuse,_the_Gambler</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare</meta>
