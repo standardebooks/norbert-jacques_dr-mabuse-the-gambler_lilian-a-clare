@@ -1,0 +1,1 @@
+The title has been changed to _Dr. Mabuse, the Gambler_ from the translator's title of _Dr. Mabuse, Master of Mystery_, because the former is both the original German title (_Dr. Mabuse, der Spieler_), and also the title of the better-known Lang silent film.
