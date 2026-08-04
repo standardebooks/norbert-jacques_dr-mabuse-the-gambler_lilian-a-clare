@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A detective hunts a criminal mastermind and hypnotist in the gambling dens of post-Great-War Munich.</dc:abstract>
+		<meta property="schema:abstract">A detective hunts a criminal mastermind and hypnotist in the gambling dens of post-Great-War Munich.</meta>
 		<dc:description>
 			&lt;p&gt;Edgar Hull is a gambling at a Munich club when he suddenly and mysteriously starts losing, seemingly on purpose. He walks away from the table in a confused dazed and deep in debt—he can’t understand why he played that way.&lt;/p&gt;
 			&lt;p&gt;Little does Edgar know that his opponent in the game was the mysterious hypnotist, master of disguise, and archvillain who calls himself Dr. Mabuse, and that Edgar was merely his latest victim. When Inspector von Wenk, a state attorney, arrives to question Hull, the plot quickly turns to murder—and worse—as Mabuse continues his reign of mesmeric terror on Munich’s gambling class. But Dr. Mabuse isn’t just in it for the money—his aim is something far greater.&lt;/p&gt;
